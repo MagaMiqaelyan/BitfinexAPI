@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\BitfinexAPI\BitfinexAPI\bin\Debug\netcoreapp2.1\BitfinexAPI.deps.json
+C:\Users\User\source\repos\BitfinexAPI\BitfinexAPI\bin\Debug\netcoreapp2.1\BitfinexAPI.runtimeconfig.json
+C:\Users\User\source\repos\BitfinexAPI\BitfinexAPI\bin\Debug\netcoreapp2.1\BitfinexAPI.runtimeconfig.dev.json
+C:\Users\User\source\repos\BitfinexAPI\BitfinexAPI\bin\Debug\netcoreapp2.1\BitfinexAPI.dll
+C:\Users\User\source\repos\BitfinexAPI\BitfinexAPI\obj\Debug\netcoreapp2.1\BitfinexAPI.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BitfinexAPI\BitfinexAPI\obj\Debug\netcoreapp2.1\BitfinexAPI.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\BitfinexAPI\BitfinexAPI\obj\Debug\netcoreapp2.1\BitfinexAPI.AssemblyInfo.cs
+C:\Users\User\source\repos\BitfinexAPI\BitfinexAPI\bin\Debug\netcoreapp2.1\BitfinexAPI.pdb
+C:\Users\User\source\repos\BitfinexAPI\BitfinexAPI\obj\Debug\netcoreapp2.1\BitfinexAPI.csprojAssemblyReference.cache
+C:\Users\User\source\repos\BitfinexAPI\BitfinexAPI\obj\Debug\netcoreapp2.1\BitfinexAPI.dll
+C:\Users\User\source\repos\BitfinexAPI\BitfinexAPI\obj\Debug\netcoreapp2.1\BitfinexAPI.pdb
